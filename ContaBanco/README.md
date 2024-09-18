@@ -3,8 +3,8 @@
 Sintaxe - Desafio
 Vamos praticar todo o conteúdo apresentado no módulo de Sintaxe codificando o seguinte cenário.
 
-1. Crie o projeto ContaBancoque receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
-2. Dentro do projeto, crie uma aula ContaTerminal.javapara realizar toda a programação do nosso programa.
+1. Crie o projeto `ContaBanco` que receberá dados via terminal contendo as características de conta em banco conforme atributos abaixo:
+2. Dentro do projeto, crie uma aula `ContaTerminal.java` para realizar toda a programação do nosso programa.
    
 ###### Revisão sobre regras de declaração de variáveis
 
